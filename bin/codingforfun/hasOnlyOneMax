@@ -1,0 +1,6 @@
+Q15. Implement code for a method named, hasOnlyOneMaximum, which takes as input, an array of 
+integers and it returns true, if the maximum integer value in the array, occurs only once, 
+otherwise it returns false. 
+For example, when given an input, a_in = [-6, 2, 5, 6, -6, 5, 6], your hasOnlyOneMaximum method 
+should return the value, false. And when given an input, a_in = [-6, 2, 5, -6, 5, 6], 
+the method should return the value, true. 
